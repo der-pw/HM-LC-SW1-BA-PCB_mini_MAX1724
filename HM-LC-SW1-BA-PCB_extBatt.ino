@@ -19,6 +19,7 @@
 // Arduino pin for the LED
 // D4 == PIN 4 on Pro Mini
 #define LED_PIN 4
+
 // Arduino pin for the config button
 // B0 == PIN 8 on Pro Mini
 #define CONFIG_BUTTON_PIN 8
