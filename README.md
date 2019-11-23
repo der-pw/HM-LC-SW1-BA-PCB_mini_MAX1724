@@ -17,7 +17,7 @@ uint8_t lowbat = getList0().lowBatLimit() / 5; //factor 5 to get low bat
 ```
 ... die eingestellte Batterieschwelle durch 5 geteilt.
 In der CCU müssen also die Spannungwerte mit "x5" angegeben werden.
-Beispiel: Batteriemeldung bei 2,1V Versorgungsspannung 2,1 x 5 = 10,5V. Müssen demnach 10,5V in der CCU eingestellt werden.
+Beispiel: Batteriemeldung bei 2,1V Versorgungsspannung. Heißt 2,1V x 5 = 10,5V. Es müssen demnach 10,5V in der CCU eingestellt werden.
 Die Werte variieren je nach verwendetem Batterie.- Akkutyp und müssen "für sich selbst" gefunden werden.
 
 
