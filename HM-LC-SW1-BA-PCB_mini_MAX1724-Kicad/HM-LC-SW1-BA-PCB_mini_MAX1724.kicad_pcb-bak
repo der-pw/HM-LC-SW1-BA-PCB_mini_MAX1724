@@ -454,7 +454,7 @@
     (fp_text reference Q1 (at -2.2 -0.1 180) (layer F.SilkS)
       (effects (font (size 0.8 0.8) (thickness 0.15)))
     )
-    (fp_text value IRLML2803 (at 0 2.5 90) (layer F.Fab)
+    (fp_text value TSM2302 (at 0 2.5 90) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.76 1.58) (end -0.7 1.58) (layer F.SilkS) (width 0.12))
