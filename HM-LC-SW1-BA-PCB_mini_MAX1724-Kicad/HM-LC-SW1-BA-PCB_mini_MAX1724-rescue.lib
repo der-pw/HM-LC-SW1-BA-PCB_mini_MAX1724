@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# ATMEGA328P-A-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue
+# ATMEGA328P-A-HMSensor-StepUp-rescue
 #
-DEF ATMEGA328P-A-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue IC 0 40 Y Y 1 F N
+DEF ATMEGA328P-A-HMSensor-StepUp-rescue IC 0 40 Y Y 1 F N
 F0 "IC" -750 1250 50 H V L BNN
-F1 "ATMEGA328P-A-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue" 400 -1400 50 H V L BNN
+F1 "ATMEGA328P-A-HMSensor-StepUp-rescue" 400 -1400 50 H V L BNN
 F2 "TQFP32" 0 0 50 H V C CIN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -45,11 +45,11 @@ X (PCINT21/OC0B/T1)PD5 9 1000 -1000 150 L 40 40 1 1 B
 ENDDRAW
 ENDDEF
 #
-# CC1101-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue
+# CC1101-HMSensor-StepUp-rescue
 #
-DEF CC1101-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue IC 0 40 Y Y 1 F N
+DEF CC1101-HMSensor-StepUp-rescue IC 0 40 Y Y 1 F N
 F0 "IC" 0 450 60 H V C CNN
-F1 "CC1101-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue" 0 -450 60 H V C CNN
+F1 "CC1101-HMSensor-StepUp-rescue" 0 -450 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -68,11 +68,11 @@ X ANT 9 500 0 200 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# CONN_01X01-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue
+# CONN_01X01-HMSensor-StepUp-rescue
 #
-DEF CONN_01X01-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue P 0 40 Y N 1 F N
+DEF CONN_01X01-HMSensor-StepUp-rescue P 0 40 Y N 1 F N
 F0 "P" 0 100 50 H V C CNN
-F1 "CONN_01X01-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue" 100 0 50 V V C CNN
+F1 "CONN_01X01-HMSensor-StepUp-rescue" 100 0 50 V V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -88,11 +88,37 @@ X P1 1 -200 0 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# CONN_01X05-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue
+# CONN_01X04-HMSensor-StepUp-rescue
 #
-DEF CONN_01X05-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue P 0 40 Y N 1 F N
+DEF CONN_01X04-HMSensor-StepUp-rescue P 0 40 Y N 1 F N
+F0 "P" 0 250 50 H V C CNN
+F1 "CONN_01X04-HMSensor-StepUp-rescue" 100 0 50 V V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+$FPLIST
+ Pin_Header_Straight_1X04
+ Pin_Header_Angled_1X04
+ Socket_Strip_Straight_1X04
+ Socket_Strip_Angled_1X04
+$ENDFPLIST
+DRAW
+S -50 -145 10 -155 0 1 0 N
+S -50 -45 10 -55 0 1 0 N
+S -50 55 10 45 0 1 0 N
+S -50 155 10 145 0 1 0 N
+S -50 200 50 -200 0 1 0 N
+X P1 1 -200 150 150 R 50 50 1 1 P
+X P2 2 -200 50 150 R 50 50 1 1 P
+X P3 3 -200 -50 150 R 50 50 1 1 P
+X P4 4 -200 -150 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# CONN_01X05-HMSensor-StepUp-rescue
+#
+DEF CONN_01X05-HMSensor-StepUp-rescue P 0 40 Y N 1 F N
 F0 "P" 0 300 50 H V C CNN
-F1 "CONN_01X05-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue" 100 0 50 V V C CNN
+F1 "CONN_01X05-HMSensor-StepUp-rescue" 100 0 50 V V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -116,11 +142,41 @@ X P5 5 -200 -200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# LED-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue
+# CONN_01X06-HMSensor-StepUp-rescue
 #
-DEF LED-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue D 0 40 Y N 1 F N
+DEF CONN_01X06-HMSensor-StepUp-rescue P 0 40 Y N 1 F N
+F0 "P" 0 350 50 H V C CNN
+F1 "CONN_01X06-HMSensor-StepUp-rescue" 100 0 50 V V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+$FPLIST
+ Pin_Header_Straight_1X06
+ Pin_Header_Angled_1X06
+ Socket_Strip_Straight_1X06
+ Socket_Strip_Angled_1X06
+$ENDFPLIST
+DRAW
+S -50 -245 10 -255 0 1 0 N
+S -50 -145 10 -155 0 1 0 N
+S -50 -45 10 -55 0 1 0 N
+S -50 55 10 45 0 1 0 N
+S -50 155 10 145 0 1 0 N
+S -50 255 10 245 0 1 0 N
+S -50 300 50 -300 0 1 0 N
+X P1 1 -200 250 150 R 50 50 1 1 P
+X P2 2 -200 150 150 R 50 50 1 1 P
+X P3 3 -200 50 150 R 50 50 1 1 P
+X P4 4 -200 -50 150 R 50 50 1 1 P
+X P5 5 -200 -150 150 R 50 50 1 1 P
+X P6 6 -200 -250 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# LED-HMSensor-StepUp-rescue
+#
+DEF LED-HMSensor-StepUp-rescue D 0 40 Y N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "LED-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue" 0 -100 50 H V C CNN
+F1 "LED-HMSensor-StepUp-rescue" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -142,11 +198,11 @@ X A 2 200 0 150 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MAX1724-HM-LC-SW1-BA-PCB_mini2-rescue
+# MAX1724
 #
-DEF MAX1724-HM-LC-SW1-BA-PCB_mini2-rescue U 0 40 Y Y 1 F N
+DEF MAX1724 U 0 40 Y Y 1 F N
 F0 "U" 150 -300 60 H V C CNN
-F1 "MAX1724-HM-LC-SW1-BA-PCB_mini2-rescue" -50 300 60 H V C CNN
+F1 "MAX1724" -50 300 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -162,11 +218,11 @@ X LX 5 600 150 300 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SW_PUSH-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue
+# SW_PUSH-HMSensor-StepUp-rescue
 #
-DEF SW_PUSH-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue SW 0 40 N N 1 F N
+DEF SW_PUSH-HMSensor-StepUp-rescue SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "SW_PUSH-HMSensor-StepUp-rescue-HM-LC-SW1-BA-PCB_mini2-rescue" 0 -80 50 H V C CNN
+F1 "SW_PUSH-HMSensor-StepUp-rescue" 0 -80 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -174,6 +230,24 @@ S -170 50 170 60 0 1 0 N
 P 4 0 1 0 -40 60 -30 90 30 90 40 60 N
 X 1 1 -300 0 200 R 50 50 0 1 P I
 X 2 2 300 0 200 L 50 50 0 1 P I
+ENDDRAW
+ENDDEF
+#
+# TLV61224-HMSensor-StepUp-rescue
+#
+DEF TLV61224-HMSensor-StepUp-rescue IC 0 40 Y Y 1 F N
+F0 "IC" 0 250 60 H V C CNN
+F1 "TLV61224-HMSensor-StepUp-rescue" 0 -400 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S -200 200 200 -300 0 1 0 N
+X VIN 1 -400 0 200 R 50 50 1 1 I
+X FB 2 400 -50 200 L 50 50 1 1 O
+X GND 3 -400 -200 200 R 50 50 1 1 U
+X VOUT 4 400 100 200 L 50 50 1 1 O
+X L 5 -400 100 200 R 50 50 1 1 I
+X EN 6 -400 -100 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #

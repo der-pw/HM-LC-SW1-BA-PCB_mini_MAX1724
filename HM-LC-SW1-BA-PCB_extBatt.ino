@@ -24,7 +24,7 @@
 // B0 == PIN 8 on Pro Mini
 #define CONFIG_BUTTON_PIN 8
 
-#define RELAY1_PIN 6
+#define RELAY1_PIN 5
 
 // number of available peers per channel
 #define PEERS_PER_CHANNEL 8

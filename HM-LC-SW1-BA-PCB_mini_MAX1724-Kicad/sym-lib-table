@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name HM-LC-SW1-BA-PCB_mini_MAX1724-rescue)(type Legacy)(uri ${KIPRJMOD}/HM-LC-SW1-BA-PCB_mini_MAX1724-rescue.lib)(options "")(descr ""))
+  (lib (name HM-LC-SW1-BA-PCB_mini2-rescue)(type Legacy)(uri ${KIPRJMOD}/HM-LC-SW1-BA-PCB_mini_MAX1724-rescue.lib)(options "")(descr ""))
 )
