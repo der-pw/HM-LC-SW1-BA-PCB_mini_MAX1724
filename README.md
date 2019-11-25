@@ -24,3 +24,7 @@ Die Werte variieren je nach verwendetem Batterie.- Akkutyp und müssen "für sic
 
 
 ![Aktor](https://github.com/der-pw/HM-LC-SW1-BA-PCB_mini_MAX1724/blob/master/files/actor.jpg "Aktor")
+
+![PCB top](https://github.com/der-pw/HM-LC-SW1-BA-PCB_mini_MAX1724/blob/master/files/top.jpg "PCB top")
+
+![PCB bottm](https://github.com/der-pw/HM-LC-SW1-BA-PCB_mini_MAX1724/blob/master/files/bottom.jpg "PCB bottom")
