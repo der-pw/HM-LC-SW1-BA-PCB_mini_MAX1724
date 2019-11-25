@@ -442,13 +442,13 @@ X0000232377Y0000245406D01*
 X0000233876Y0000248406D01*
 G04 next file*
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
-G04 #@! TF.CreationDate,2019-11-25T21:39:26+01:00*
+G04 #@! TF.CreationDate,2019-11-25T21:55:28+01:00*
 G04 #@! TF.ProjectId,HM-LC-SW1-BA-PCB_mini_MAX1724,484d2d4c-432d-4535-9731-2d42412d5043,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:39:26*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:55:28*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D23*
@@ -866,13 +866,13 @@ X0001177259Y0000245406D01*
 X0001178758Y0000248406D01*
 G04 next file*
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
-G04 #@! TF.CreationDate,2019-11-25T21:39:26+01:00*
+G04 #@! TF.CreationDate,2019-11-25T21:55:28+01:00*
 G04 #@! TF.ProjectId,HM-LC-SW1-BA-PCB_mini_MAX1724,484d2d4c-432d-4535-9731-2d42412d5043,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:39:26*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:55:28*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D26*
@@ -1290,13 +1290,13 @@ X0002122140Y0000245406D01*
 X0002123640Y0000248406D01*
 G04 next file*
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
-G04 #@! TF.CreationDate,2019-11-25T21:39:26+01:00*
+G04 #@! TF.CreationDate,2019-11-25T21:55:28+01:00*
 G04 #@! TF.ProjectId,HM-LC-SW1-BA-PCB_mini_MAX1724,484d2d4c-432d-4535-9731-2d42412d5043,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:39:26*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:55:28*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D29*
@@ -1714,13 +1714,13 @@ X0003067022Y0000245406D01*
 X0003068522Y0000248406D01*
 G04 next file*
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
-G04 #@! TF.CreationDate,2019-11-25T21:39:26+01:00*
+G04 #@! TF.CreationDate,2019-11-25T21:55:28+01:00*
 G04 #@! TF.ProjectId,HM-LC-SW1-BA-PCB_mini_MAX1724,484d2d4c-432d-4535-9731-2d42412d5043,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:39:26*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:55:28*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D32*
@@ -2138,13 +2138,13 @@ X0000232377Y0001977690D01*
 X0000233876Y0001980689D01*
 G04 next file*
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
-G04 #@! TF.CreationDate,2019-11-25T21:39:26+01:00*
+G04 #@! TF.CreationDate,2019-11-25T21:55:28+01:00*
 G04 #@! TF.ProjectId,HM-LC-SW1-BA-PCB_mini_MAX1724,484d2d4c-432d-4535-9731-2d42412d5043,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:39:26*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:55:28*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D35*
@@ -2562,13 +2562,13 @@ X0001177259Y0001977690D01*
 X0001178758Y0001980689D01*
 G04 next file*
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
-G04 #@! TF.CreationDate,2019-11-25T21:39:26+01:00*
+G04 #@! TF.CreationDate,2019-11-25T21:55:28+01:00*
 G04 #@! TF.ProjectId,HM-LC-SW1-BA-PCB_mini_MAX1724,484d2d4c-432d-4535-9731-2d42412d5043,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:39:26*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:55:28*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D38*
@@ -2986,13 +2986,13 @@ X0002122140Y0001977690D01*
 X0002123640Y0001980689D01*
 G04 next file*
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
-G04 #@! TF.CreationDate,2019-11-25T21:39:26+01:00*
+G04 #@! TF.CreationDate,2019-11-25T21:55:28+01:00*
 G04 #@! TF.ProjectId,HM-LC-SW1-BA-PCB_mini_MAX1724,484d2d4c-432d-4535-9731-2d42412d5043,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Legend,Bot*
 G04 #@! TF.FilePolarity,Positive*
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:39:26*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-11-25 21:55:28*
 G04 APERTURE LIST*
 G04 APERTURE END LIST*
 D41*
