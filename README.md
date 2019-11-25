@@ -1,5 +1,5 @@
 # AskSin++ Batterieaktor mit MAX1724 Stepup
-## Achtung! Es besteht die Möglichkeit, dass WOR nicht sauber funktioniert, da eine RTC für genaue Timing fehlt. Selbst kann ich das nicht betätigen, aber ich werde vorsorglich das Platinendesign dahingehend ändern, dass ein Uhrenquartz verwendet werden kann.
+## Achtung! Es besteht die Möglichkeit, dass WOR nicht sauber funktioniert, da eine RTC für genaue Timings fehlt. Selbst kann ich das (noch) nicht betätigen, aber ich habe vorsorglich das Platinendesign dahingehend geändert, dass optional ein Uhrenquartz verwendet werden kann.
 
 ### mit einer Ausgangsspannung von 3,3V, bspw. für Mini-Lichterketten.
 
