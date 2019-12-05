@@ -1,5 +1,5 @@
 # AskSin++ Batterieaktor mit MAX1724 Stepup
-## Achtung! Der V0.3 Branch beinhaltet Verbesserungen im Bereich des Induktors, das PCB konnte aber noch nicht "gepanelt" werden daher sind die Gerberdateien zwar aktuell, das 4x2-Panel aber nicht. Wird schnellstens nachgeholt.  
+## Achtung! Der V0.3 Branch beinhaltet Verbesserungen im Bereich des Induktors. Das PCB konnte aber noch nicht "gepanelt" werden daher sind die Gerberdateien zwar aktuell, das 4x2-Panel aber nicht. Wird schnellstens nachgeholt.  
 
 ### mit einer Ausgangsspannung von 3,3V, bspw. für Mini-Lichterketten.
 
