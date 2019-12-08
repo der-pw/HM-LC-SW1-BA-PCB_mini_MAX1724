@@ -1,14 +1,15 @@
 EESchema Schematic File Version 4
-EELAYER 29 0
+LIBS:HM-LC-SW1-BA-PCB_mini_MAX1724-cache
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "HM-LC-SW1-BA-PCB_mini_MAX1724"
 Date ""
-Rev "0.2"
+Rev "0.3"
 Comp ""
-Comment1 "V0.2"
+Comment1 "V0.3"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -880,4 +881,6 @@ Wire Notes Line
 	2825 2875 1275 2875
 Wire Notes Line
 	1275 2875 1275 1525
+Text Notes 9975 2200 0    79   ~ 16
+ANT: 72mm Wire
 $EndSCHEMATC
